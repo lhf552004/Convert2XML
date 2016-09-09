@@ -1,7 +1,0 @@
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\obj\x86\Debug\XLS2XML.Form1.resources
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\obj\x86\Debug\XLS2XML.Properties.Resources.resources
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\obj\x86\Debug\XLS2XML.csproj.GenerateResource.Cache
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\bin\Debug\XLS2XML.exe
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\bin\Debug\XLS2XML.pdb
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\obj\x86\Debug\XLS2XML.exe
-C:\Allen\Projects\MyProjects\C#\XLS2XML\XLS2XML\obj\x86\Debug\XLS2XML.pdb
